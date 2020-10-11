@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://rkhjw3.coding-pages.com/</id>
     <title>Quinn&apos;s Heart</title>
-    <updated>2020-10-11T03:23:15.907Z</updated>
+    <updated>2020-10-11T03:28:06.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://rkhjw3.coding-pages.com/"/>
     <link rel="self" href="http://rkhjw3.coding-pages.com/atom.xml"/>
@@ -16,6 +16,17 @@
         <link href="http://rkhjw3.coding-pages.com/post/交通数据质量控制/">
         </link>
         <updated>2020-10-11T02:44:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>交通数据分析与应用课第一次大作业</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>交通数据分析与应用课第一次大作业</p>
+<!-- more -->
+<p>作业要求如下：</p>
+<figure data-type="image" tabindex="1"><img src="F:%5C%E8%87%AA%E5%AD%A6%E7%BC%96%E7%A8%8B%5CGridea%5Cpost-images%5C%E4%BA%A4%E9%80%9A%E6%95%B0%E6%8D%AE%E8%B4%A8%E9%87%8F%E6%8E%A7%E5%88%B61.jpg" alt="" loading="lazy"></figure>
+<p><img src="" alt="" loading="lazy"><img src="F:%5C%E8%87%AA%E5%AD%A6%E7%BC%96%E7%A8%8B%5CGridea%5Cpost-images%5C%E4%BA%A4%E9%80%9A%E6%95%B0%E6%8D%AE%E8%B4%A8%E9%87%8F%E6%8E%A7%E5%88%B62.jpg" alt="交通数据质量控制2" loading="lazy"></p>
+<figure data-type="image" tabindex="2"><img src="F:%5C%E8%87%AA%E5%AD%A6%E7%BC%96%E7%A8%8B%5CGridea%5Cpost-images%5C%E4%BA%A4%E9%80%9A%E6%95%B0%E6%8D%AE%E8%B4%A8%E9%87%8F%E6%8E%A7%E5%88%B63.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="F:%5C%E8%87%AA%E5%AD%A6%E7%BC%96%E7%A8%8B%5CGridea%5Cpost-images%5C%E4%BA%A4%E9%80%9A%E6%95%B0%E6%8D%AE%E8%B4%A8%E9%87%8F%E6%8E%A7%E5%88%B64.jpg" alt="" loading="lazy"></figure>
+<p>作业要处理的线圈数据：</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[how-to-build-up]]></title>
